@@ -4491,7 +4491,7 @@ hr {
 /* line 40, C:/Users/HP/Desktop/jun-2020/279.Business/assets/scss/_h1-hero.scss */
 
 .slider-area .single-slider .slider-cap-wrapper .hero__img img {
-    width: 100%;
+    width: 75%;
 }
 
 
@@ -5374,7 +5374,7 @@ hr {
 /* line 1, C:/Users/HP/Desktop/jun-2020/279.Business/assets/scss/_team.scss */
 
 .team-area {
-    background: #FFF7F5;
+    background: #faf7f6;
 }
 
 
@@ -10039,3 +10039,30 @@ del {
 
 
 /*# sourceMappingURL=style.css.map */
+
+#financiadoras {
+    padding-top: 13rem;
+    padding-right: 0px;
+    padding-right: 0px;
+    padding-left: 50px;
+    border-left-width: 200px;
+}
+
+#textfinanciadoras {
+    padding-right: 0px;
+    font-size: 20px;
+    width: 500px
+}
+
+#financiadorasimg {
+    width: 370px
+}
+
+#contatolista {
+    width: 300px;
+}
+
+#contatoslista {
+    padding-top: 25px;
+    margin-right: 200px;
+}
