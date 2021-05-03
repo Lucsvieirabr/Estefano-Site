@@ -10069,3 +10069,22 @@ del {
     padding-top: 25px;
     margin-right: 200px;
 }
+
+@media screen and (max-width: 360px) {
+    #financiadoras {
+        padding-left: 5px;
+        font-size: 1rem;
+    }
+    .col-xl-5 {
+        padding-left: 5px;
+        font-size: 1rem;
+    }
+    .col-lg-6 {
+        padding-left: 5px;
+        font-size: 1rem;
+    }
+    .col-md-9 {
+        padding-left: 5px;
+        font-size: 1rem;
+    }
+}
