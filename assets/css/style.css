@@ -1,3 +1,13 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+
 /* Theme Description
 -------------------------------------------------
 
@@ -10071,20 +10081,28 @@ del {
 }
 
 @media screen and (min-width: 360px) {
+    #preloader-active {
+        justify-content: center;
+        align-items: center;
+        display: flex;
+    }
+    #textfinanciadoras {
+        font-size: 1.7rem;
+    }
     #financiadoras {
         padding-left: 15px;
-        font-size: 1rem;
+        font-size: 0.1rem;
     }
     .col-xl-5 {
         padding-left: 15px;
-        font-size: 1rem;
+        font-size: 0.1rem;
     }
     .col-lg-6 {
         padding-left: 15px;
-        font-size: 1rem;
+        font-size: 0.1rem;
     }
     .col-md-9 {
         padding-left: 15px;
-        font-size: 1rem;
+        font-size: 0.1rem;
     }
 }
